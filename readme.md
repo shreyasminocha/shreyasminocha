@@ -1,5 +1,3 @@
-# Shreyas Minocha
-
 Hi! 🙃
 
 - 👋🏼 [About me](https://shreyasminocha.me/about)
