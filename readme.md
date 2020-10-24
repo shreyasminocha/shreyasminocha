@@ -2,4 +2,4 @@
 - ✍🏼 [Blog](https://shreyasminocha.me/blog)
 - 💵 [Liberapay](https://liberapay.com/shreyasminocha)
 
-Other repos and mirrors: [git.shr.cx](https://git.shr.cx)
+Other repos and mirrors: [git.shr.cx](https://git.shr.cx). GitHub bad.
