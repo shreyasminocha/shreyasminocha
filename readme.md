@@ -1,6 +1,6 @@
 ### [`301 Moved Permanently`](https://sr.ht/~shreyasminocha)
 
-Other repos on [sourcehut](https://git.sr.ht/~shreyasminocha). Moving there in the long-term. GitHub bad<sup>[[1]](https://sanctum.geek.nz/why-not-github.html)[[2]](https://github.com/selfagency/microsoft-drop-ice)</sup>.
+Other repos on [sourcehut](https://git.sr.ht/~shreyasminocha). Moving there in the long-term.
 
 Notable off-GH repos:
 
