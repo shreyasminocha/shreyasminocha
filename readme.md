@@ -2,6 +2,10 @@
 
 Other repos on [sourcehut](https://git.sr.ht/~shreyasminocha). Moving there in the long-term.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasminocha&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasminocha&theme=github_dark)
+
+
 Notable off-GH repos:
 
 - [canvas-fs](https://sr.ht/~shreyasminocha/canvas-fs)
